@@ -28,7 +28,7 @@ public class Ejercicio6_Arreglos {
             tablaB[i] = entrada.nextInt();
         }
 
-        i=0; //Reinicia el valor de i ya que en el anterior buque habia quedado en 13
+        i=0; //Reinicia el valor de i ya que en el anterior bucle habia quedado en 13
         j=0;
 
         while(i<12){
